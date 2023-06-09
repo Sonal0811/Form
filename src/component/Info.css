@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+img{
+    margin-top: -100px;
+    height: 30vh;
+    width: 15vw;
+    border-radius: 120px;
+    position:relative;
+}
+h2{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 18px;
+}
+h3{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 18px;
+}
